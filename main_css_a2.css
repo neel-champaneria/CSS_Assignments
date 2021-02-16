@@ -1,0 +1,49 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+table{
+  margin: 10px 10px 10px 10px;
+  color: #303030;
+}
+
+/* Pink Cell*/
+.cell1{
+  background-color: #ff9999;
+}
+
+/* Yellow/Khakhi Cell*/
+.cell2{
+  background-color: #f0e68c;
+}
+
+/* About me grey Cell */
+.cell3{
+  background-color: #ececfb;
+}
+
+/* Font used for the main title in Pink Cell */
+.biggerFont{
+  font-size: 25pt;
+  margin: 0pt 50pt;
+}
+
+/* Font used for the "about me" title in Grey Cell */
+.bigFont{
+  font-size: 20pt;
+  font-weight: bold;
+  margin: 0pt 0pt 7pt 0pt;
+}
+
+/* Font used for the sub title in Pink Cell */
+.smallFont{
+  font-size: 18pt;
+  margin: 10pt 5pt;
+}
+
+/* Patter Image Height and Width*/
+.img1{
+  width: 550px;
+  height: 310px;
+}
